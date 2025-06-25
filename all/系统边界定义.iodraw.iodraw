@@ -53,11 +53,6 @@
         <mxCell id="17" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="3" source="15" target="16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="19" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="3" source="16" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="75.5" y="325" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="21" value="支付状态" style="rhombus;fillColor=#ffffc0;strokeColor=#ff0000;" parent="3" vertex="1">
           <mxGeometry x="150" y="225" width="80" height="40" as="geometry" />
         </mxCell>
