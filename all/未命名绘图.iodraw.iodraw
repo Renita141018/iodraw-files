@@ -150,10 +150,13 @@
         <mxCell id="QpzEsFUtmXX31xrnjbFJ-10" value="商品分类" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="QpzEsFUtmXX31xrnjbFJ-5">
           <mxGeometry y="166" width="170" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="QpzEsFUtmXX31xrnjbFJ-12" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QpzEsFUtmXX31xrnjbFJ-5">
+        <mxCell id="QpzEsFUtmXX31xrnjbFJ-12" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.014;entryY=0.907;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QpzEsFUtmXX31xrnjbFJ-5" target="zkfFHV4jXpPFQw0GAbJ--7">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-20" y="380" as="sourcePoint" />
             <mxPoint x="140" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70" y="410" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
