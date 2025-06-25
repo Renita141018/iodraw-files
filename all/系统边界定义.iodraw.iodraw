@@ -51,7 +51,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="80Vf7-8HjWhSzXw_Hg3I-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="80Vf7-8HjWhSzXw_Hg3I-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="40" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="80Vf7-8HjWhSzXw_Hg3I-6" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1" source="80Vf7-8HjWhSzXw_Hg3I-5" target="aM9ryv3xv72pqoxQDRHE-1">
