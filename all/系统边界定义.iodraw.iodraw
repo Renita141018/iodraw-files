@@ -113,7 +113,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4" value="Thread 3" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
+        <mxCell id="4" value="农户" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="724.5" y="128" width="280" height="570" as="geometry" />
         </mxCell>
         <mxCell id="33" value="process&#xa;command" style="" parent="4" vertex="1">
