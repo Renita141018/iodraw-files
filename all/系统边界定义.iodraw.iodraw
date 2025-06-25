@@ -125,7 +125,7 @@
         </mxCell>
         <object label="农户端" 账户管理="" id="QpzEsFUtmXX31xrnjbFJ-5">
           <mxCell style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;labelBackgroundColor=none;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-            <mxGeometry x="-130" y="226" width="170" height="164" as="geometry">
+            <mxGeometry x="-110" y="280" width="170" height="164" as="geometry">
               <mxRectangle x="330" y="360" width="170" height="26" as="alternateBounds" />
             </mxGeometry>
           </mxCell>
