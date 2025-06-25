@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="691" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="631" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,7 +15,7 @@
             <mxPoint x="115" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7" value="idle" style="" parent="2" vertex="1">
+        <mxCell id="7" value="未支付" style="" parent="2" vertex="1">
           <mxGeometry x="60" y="110" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8" value="user action" style="" parent="2" vertex="1">
