@@ -23,10 +23,10 @@
           <mxGeometry x="280" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XpvYgtXp3pm7BGAsuOqN-9" value="订单报表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XpvYgtXp3pm7BGAsuOqN-10" value="记录报表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
