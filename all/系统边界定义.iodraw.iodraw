@@ -51,7 +51,7 @@
         </mxCell>
         <object label="管理员端" 账户管理="" id="zkfFHV4jXpPFQw0GAbJ--13">
           <mxCell style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;labelBackgroundColor=none;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-            <mxGeometry x="390" y="360" width="170" height="254" as="geometry">
+            <mxGeometry x="390" y="360" width="170" height="244" as="geometry">
               <mxRectangle x="330" y="360" width="170" height="26" as="alternateBounds" />
             </mxGeometry>
           </mxCell>
