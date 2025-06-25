@@ -41,15 +41,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-10" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="aM9ryv3xv72pqoxQDRHE-4" target="aM9ryv3xv72pqoxQDRHE-6" edge="1">
-          <mxGeometry x="-0.0011" relative="1" as="geometry">
-            <mxPoint x="175" y="235" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="180" y="230" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="80Vf7-8HjWhSzXw_Hg3I-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="40" width="30" height="60" as="geometry" />
         </mxCell>
@@ -95,9 +86,9 @@
             <mxPoint x="320" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="80Vf7-8HjWhSzXw_Hg3I-20" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="80Vf7-8HjWhSzXw_Hg3I-18">
+        <mxCell id="80Vf7-8HjWhSzXw_Hg3I-20" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;1.1.1.1：递交订单()&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="80Vf7-8HjWhSzXw_Hg3I-18">
           <mxGeometry x="-0.1403" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
