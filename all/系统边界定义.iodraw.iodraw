@@ -119,7 +119,13 @@
         </mxCell>
         <mxCell id="80Vf7-8HjWhSzXw_Hg3I-26" value="3.1:支付订单()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="80Vf7-8HjWhSzXw_Hg3I-25">
           <mxGeometry x="-0.249" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80Vf7-8HjWhSzXw_Hg3I-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="280" as="sourcePoint" />
+            <mxPoint x="360" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
