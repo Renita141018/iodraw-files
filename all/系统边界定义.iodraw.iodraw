@@ -18,11 +18,6 @@
         <mxCell id="7" value="取消订单" style="" parent="2" vertex="1">
           <mxGeometry x="60" y="110" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="2" source="7" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="114.99999999999989" y="220" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="10" value="未支付" style="" parent="2" vertex="1">
           <mxGeometry x="60" y="325" width="110" height="50" as="geometry" />
         </mxCell>
@@ -151,6 +146,11 @@
         <mxCell id="20" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="10" target="16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="464.5" y="477.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7" target="15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="279.4999999999999" y="348" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
