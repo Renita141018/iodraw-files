@@ -135,7 +135,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="QpzEsFUtmXX31xrnjbFJ-6" value="订单处理" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="QpzEsFUtmXX31xrnjbFJ-5">
+        <mxCell id="QpzEsFUtmXX31xrnjbFJ-6" value="账户登录注册" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="QpzEsFUtmXX31xrnjbFJ-5">
           <mxGeometry y="26" width="170" height="44" as="geometry" />
         </mxCell>
         <mxCell id="QpzEsFUtmXX31xrnjbFJ-7" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="QpzEsFUtmXX31xrnjbFJ-5">
