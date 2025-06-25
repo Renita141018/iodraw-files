@@ -103,6 +103,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="CLL-1GCaX8PQpfk0hHT2-44" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3">
+          <mxGeometry x="80.5" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="4" value="农户" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="724.5" y="128" width="280" height="570" as="geometry" />
         </mxCell>
