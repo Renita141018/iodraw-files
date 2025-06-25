@@ -44,7 +44,7 @@
             <mxPoint x="75.5" y="62" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="15" value="已取消" style="" parent="3" vertex="1">
+        <mxCell id="15" value="交易异常" style="" parent="3" vertex="1">
           <mxGeometry x="20" y="110" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="16" value="订单支付" style="" parent="3" vertex="1">
@@ -133,6 +133,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="279.4999999999999" y="348" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CLL-1GCaX8PQpfk0hHT2-43" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="400" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
