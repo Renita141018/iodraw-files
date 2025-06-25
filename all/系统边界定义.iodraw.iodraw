@@ -103,7 +103,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CLL-1GCaX8PQpfk0hHT2-44" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3">
+        <mxCell id="CLL-1GCaX8PQpfk0hHT2-44" value="已取消" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3">
           <mxGeometry x="80.5" y="40" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4" value="农户" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
@@ -136,9 +136,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="279.4999999999999" y="348" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="CLL-1GCaX8PQpfk0hHT2-43" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="400" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
