@@ -16,7 +16,7 @@
         <mxCell id="IRJsLRBru1staTf2-ORQ-6" value="物流履约服务质量" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="IRJsLRBru1staTf2-ORQ-3">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IRJsLRBru1staTf2-ORQ-7" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="IRJsLRBru1staTf2-ORQ-3">
+        <mxCell id="IRJsLRBru1staTf2-ORQ-7" value="价格与质量感知" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="IRJsLRBru1staTf2-ORQ-3">
           <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
