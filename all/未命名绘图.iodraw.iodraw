@@ -22,7 +22,7 @@
         <mxCell id="IRJsLRBru1staTf2-ORQ-8" value="消费者复购意愿" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IRJsLRBru1staTf2-ORQ-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.971;exitY=0.057;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IRJsLRBru1staTf2-ORQ-3">
+        <mxCell id="IRJsLRBru1staTf2-ORQ-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IRJsLRBru1staTf2-ORQ-5" target="IRJsLRBru1staTf2-ORQ-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="310" as="sourcePoint" />
             <mxPoint x="400" y="260" as="targetPoint" />
