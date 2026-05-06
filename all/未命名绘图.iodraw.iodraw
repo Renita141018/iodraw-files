@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IRJsLRBru1staTf2-ORQ-3" value="O2O模式下服务质量" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="230" width="140" height="150" as="geometry" />
+          <mxGeometry x="140" y="170" width="140" height="150" as="geometry" />
         </mxCell>
         <mxCell id="IRJsLRBru1staTf2-ORQ-4" value="线上平台服务质量" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="IRJsLRBru1staTf2-ORQ-3">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -18,6 +18,9 @@
         </mxCell>
         <mxCell id="IRJsLRBru1staTf2-ORQ-7" value="价格与质量感知" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="IRJsLRBru1staTf2-ORQ-3">
           <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IRJsLRBru1staTf2-ORQ-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
